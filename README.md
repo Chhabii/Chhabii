@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**RxnAch/RxnAch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 🧗🏾‍♀️ I try to: Go beyond and push the bounds
 
+
+#### Have a great day!
