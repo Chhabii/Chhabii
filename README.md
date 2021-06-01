@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 🎤 I am a Data Enthusiasts. 
 
-🛸 Coding everyday, currently learning to master DeepLearning...
+🛸 Coding everyday, currently learning DeepLearning...
 
 🌋 I’m always looking for challenging work oppurtunities ahead.
 
