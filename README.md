@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 🎤 I am a Data Enthusiasts. 
    
    
-   My recent Projects:
+ ✔ My recent Project:
    -[Prediction Of House Prices](https://github.com/RxnAch/DeepLearning/blob/main/Predicting_House_Prices_on_kaggle.ipynb)
 
 🛸 Coding everyday, currently learning DeepLearning...
