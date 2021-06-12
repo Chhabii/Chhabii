@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ![RxnAch's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxnach&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxnach&langs_count=8)](https://github.com/rxnach/github-readme-stats)
+                     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxnach&langs_count=8)](https://github.com/rxnach/github-readme-stats)
 
 
 
