@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 🎤 I am a Data Enthusiasts. 
    
    
- ✔ My recent Project:
-   -[Prediction Of House Prices](https://github.com/RxnAch/DeepLearning/blob/main/Predicting_House_Prices_on_kaggle.ipynb)
+ <!-- ✔ My recent Project:
+   -[Prediction Of House Prices](https://github.com/RxnAch/DeepLearning/blob/main/Predicting_House_Prices_on_kaggle.ipynb) -->
    
- ↺ Ongoing Project:
-   -[Chest X-ray-images (Pneumonia or Normal) prediction](https://github.com/RxnAch/ProjectsOnDeepLearning/blob/main/Chest_X_Ray_Images(Pneumonia).ipynb)
+<!-- ↺ Ongoing Project:
+   -[Chest X-ray-images (Pneumonia or Normal) prediction](https://github.com/RxnAch/ProjectsOnDeepLearning/blob/main/Chest_X_Ray_Images(Pneumonia).ipynb) -->
 
 🛸 Coding everyday, currently learning DeepLearning...
 
