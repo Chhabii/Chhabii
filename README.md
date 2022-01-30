@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <!-- ↺ Ongoing Project:
    -[Chest X-ray-images (Pneumonia or Normal) prediction](https://github.com/RxnAch/ProjectsOnDeepLearning/blob/main/Chest_X_Ray_Images(Pneumonia).ipynb) -->
 
-🛸 Coding everyday, currently learning DeepLearning...
+🛸 Coding everyday, currently learning Data Structure and Algorithms + Data Science basic tools such as pandas,numpy,...
 
 🌋 I’m always looking for challenging work oppurtunities ahead.
 
