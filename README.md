@@ -9,7 +9,7 @@ Here are some ideas to get you started:
    
    
  My recent Project:
-   -  [ Student's Stress Level prediction ](https://github.com/Chhabii/Stressometer)
+   -  [ Student's Stress Level prediction( Stressometer ) ](https://github.com/Chhabii/Stressometer)
 
 🛸 Coding everyday, currently learning Data Structure and Algorithms + Data Science basic tools such as pandas,numpy,...
 
