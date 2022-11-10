@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 📺 Share things I know and learn in my [Linkedin](https://www.linkedin.com/in/chhabi-acharya-95747a19a/)
 
 
-<!-- ![Chhabii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chhabii&show_icons=true&theme=radical)
-                     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chhabii&langs_count=8)](https://github.com/Chhabii/github-readme-stats)
--->
+[![Chhabii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chhabii&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Chhabii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chhabii&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/Chhabii/github-readme-stats)
 
 
 #### Have a great day!
